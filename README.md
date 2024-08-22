@@ -48,23 +48,38 @@ cd stat-iq
 
 
 
-# Prototype Snapshots
+# Working Model Snapshota
 
-## Home Page - Uploading of Dataset
-![Home Page - Uploading of Dataset](https://github.com/user-attachments/assets/7af9c5eb-dded-45b4-bebc-f1a2ca4e2afc)
+## Home Page - When uploaded a dataset , A data preview is given
+(![image](https://github.com/user-attachments/assets/2b0a679d-ea8e-4f8c-b4bd-85824aa5fe4f)
 
-## Model Generated Code for data cleaning, pre-processing and transformations 
-![Code Generation by LLM](https://github.com/user-attachments/assets/347dc4f2-e452-454e-a65d-4e6a57cef05a)
 
-## Cleaned Dataset
-![Cleaned Dataset](https://github.com/user-attachments/assets/3eb64e9e-4054-4839-999e-066e02935161)
+
+## Model Generates Code for data cleaning, pre-processing and transformations by thorough analysis of the Dataset Uploaded
+![image](https://github.com/user-attachments/assets/6da08c3b-0a6a-4942-88be-3574e0770cc7)
+
+
+## Cleaned Dataset Preview 
+![image](https://github.com/user-attachments/assets/4fe4291e-dd0a-4c73-995d-59c2f72991d3)
+
+## Model recommends and generates visualisations code for creating an Analytical Dashboard
+![image](https://github.com/user-attachments/assets/7d0c7719-a971-4dd4-9656-25bde29b783d)
+
+
 
 ## Generated Analytical Dashboard 
-![image](https://github.com/user-attachments/assets/dcc88db8-e9ba-4639-b0d6-a34b33c8c837)
+![image](https://github.com/user-attachments/assets/67b5a239-a222-45de-b311-980baf47fa79)
+
+## Users can ask required personalised prompts for any plots or summaries from the dataset
+![WhatsApp Image 2024-08-22 at 08 28 19_a1bfb743](https://github.com/user-attachments/assets/4f275f03-ef32-4d1b-b3d7-b7d6415dd70e)
+
+## Generated Response for the user queries 
+![WhatsApp Image 2024-08-22 at 08 30 11_d1126898](https://github.com/user-attachments/assets/b8ff2b16-be34-4f29-8340-6f9aef9a5dc7)
 
 
-## Generated Business Insights and Recommendations
-![Business Insights Generated](https://github.com/user-attachments/assets/ff64dfd8-ae55-4c57-97da-19751c8a345b)
+## Generated Business Insights and Recommendations 
+![image](https://github.com/user-attachments/assets/a843ec78-7a15-483d-a296-c4f91b3ca3cc)
+
 
 
 

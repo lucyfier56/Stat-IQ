@@ -53,17 +53,17 @@ cd stat-iq
 ## Home Page - Uploading of Dataset
 ![Home Page - Uploading of Dataset](https://github.com/user-attachments/assets/7af9c5eb-dded-45b4-bebc-f1a2ca4e2afc)
 
-## Code Generation by LLM
+## Model Generated Code for data cleaning, pre-processing and transformations 
 ![Code Generation by LLM](https://github.com/user-attachments/assets/347dc4f2-e452-454e-a65d-4e6a57cef05a)
 
 ## Cleaned Dataset
 ![Cleaned Dataset](https://github.com/user-attachments/assets/3eb64e9e-4054-4839-999e-066e02935161)
 
-## Graphs Generated
-![Graphs Generated](![image](https://github.com/user-attachments/assets/dcc88db8-e9ba-4639-b0d6-a34b33c8c837)
+## Generated Analytical Dashboard 
+![image](https://github.com/user-attachments/assets/dcc88db8-e9ba-4639-b0d6-a34b33c8c837)
 
 
-## Business Insights Generated
+## Generated Business Insights and Recommendations
 ![Business Insights Generated](https://github.com/user-attachments/assets/ff64dfd8-ae55-4c57-97da-19751c8a345b)
 
 

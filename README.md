@@ -1,45 +1,38 @@
+# Stat IQ: Automated Business Intelligence Dashboard
 
-# Stat-IQ: BI Automation
-
-Stat-IQ is a streamlined solution for automating business intelligence and analytics tasks. It automates data cleaning, preprocessing, exploratory analysis, and the evaluation of potential machine learning algorithms for refined datasets. Leveraging Llama 3.1 for dynamic Python code generation and error correction, Stat-IQ produces insightful visualizations with precision and ease.
+Stat IQ is a Streamlit-based application that automates data analysis, visualization, and the creation of dashboards. By uploading your data, the app handles the entire process, providing insights, visualizations, and business recommendations.
 
 ## Features
 
-- **Automated Data Cleaning and Preprocessing:** Automatically cleans and preprocesses uploaded datasets.
-- **Dynamic Code Generation:** Utilizes Llama 3.1 to generate and correct Python code dynamically.
-- **Exploratory Data Analysis (EDA):** Performs EDA to summarize the main characteristics of the data.
-- **Machine Learning Evaluation:** Evaluates potential machine learning algorithms for the refined dataset.
-- **Visualizations:** Generates insightful visualizations for various types of data.
-- **Business Recommendations:** Provides business recommendations based on data analysis.
+- **Data Overview**: Get a quick summary of your data, including the number of rows, columns, data types, and summary statistics.
+- **Data Cleaning & EDA**: Automatically generate and execute code for data cleaning and exploratory data analysis (EDA).
+- **Visualization Dashboard**: Create a comprehensive dashboard with key graphs and plots based on your data.
+- **Chatbot Interaction**: Interact with your data through a chatbot to generate custom visualizations and insights.
+- **Business Recommendations**: Receive actionable business recommendations based on your dataset.
 
-## Getting Started
+## Installation
 
 ### Prerequisites
 
-- Python 3.x
-- Streamlit
-- Pandas
-- Matplotlib
-- Groq API (Replace with your actual API key)
+Make sure you have Python 3.7 or above installed on your system.
 
-### Installation
+### Step 1: Clone the Repository
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/Stat-IQ.git
-    cd Stat-IQ
-    ```
+```bash
+git clone https://github.com/yourusername/stat-iq.git
+cd stat-iq
+```
 
 2. Install the required packages:
     ```bash
-    pip install streamlit pandas matplotlib groq
+    pip install streamlit pandas matplotlib groq plotly
     ```
 
 ### Usage
 
 1. Run the Streamlit application:
     ```bash
-    streamlit run app.py
+    streamlit run FinalCode.py
     ```
 
 2. Open your browser and go to `http://localhost:8501`.

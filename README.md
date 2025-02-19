@@ -48,7 +48,7 @@ cd stat-iq
 
 
 
-# Working Model Snapshota
+# Working Model Snapshots
 
 ## Home Page - When uploaded a dataset , A data preview is given
 (![image](https://github.com/user-attachments/assets/2b0a679d-ea8e-4f8c-b4bd-85824aa5fe4f)
